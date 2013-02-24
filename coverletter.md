@@ -23,6 +23,6 @@ Don Graziano
 
 Attached you will find my resume.
 
-p.s. I sincerely apologize as my personal website is currently undergoing re-development and as of this writing currently unavailable. However, this project is hosted on GitHub and available at https://GitHub.com/therocketforever/therocketforever. I would be more than enthusiastic to answer any questions you may have or discuss the philosophies guiding the further development of the site.
+p.s. I sincerely apologize as my personal website is currently undergoing re-development and as of this writing currently unavailable. However, this project is hosted on GitHub & available at https://GitHub.com/therocketforever/therocketforever. I would be more than enthusiastic to answer any questions you may have or discuss the philosophies guiding the further development of the site.
 
 
